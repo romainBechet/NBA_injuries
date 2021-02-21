@@ -1,0 +1,71 @@
+{
+    "injuries": [
+        "back",
+        "thigh",
+        "thumb",
+        "wrist",
+        "knee",
+        "ankle",
+        "hand",
+        "shoulder",
+        "hip",
+        "hamstrings",
+        "elbow",
+        "forearm",
+        "eye",
+        "foot",
+        "calf",
+        "concussion",
+        "heel",
+        "hamstring",
+        "oblique",
+        "tailbone",
+        "quadricep",
+        "adductor",
+        "leg",
+        "groin",
+        "core",
+        "finger",
+        "toe",
+        "shin",
+        "Achilles",
+        "mouth",
+        "thoracic",
+        "neck",
+        "nose",
+        "abdominal",
+        "pelvis",
+        "head",
+        "gluteus"
+    ],
+    "illness": [
+        "safety protocol",
+        "COVID-19",
+        "appendicitis",
+        "kidney"
+    ],
+    "personal_reasons": [
+        "personal reason",
+        "birth",
+        "death",
+        "not with team",
+        "conditioning"
+    ],
+    "types": [
+        "spasms",
+        "injury",
+        "surgery",
+        "sore",
+        "fractured",
+        "torn",
+        "strained",
+        "sprained",
+        "bruised",
+        "inflammation"
+    ], 
+    "estimated_duration": [
+        "DTD", 
+        "Out for season", 
+        "Out indefinitely"
+    ]
+}
